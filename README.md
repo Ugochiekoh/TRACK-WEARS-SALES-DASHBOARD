@@ -1,4 +1,4 @@
-# README: DIGI FACT TABLE Analysis
+# README: Track Wears Sales Analysis
 
 ## Project Overview
 This project analyzes sales data of a track wears sales, which contains transactional records of various products sold across different regions in the United States. The dataset includes details such as order information, customer demographics, product categories, sales channels, and financial metrics like revenue and profit. The goal is to uncover trends, identify high-performing products and regions, and optimize sales strategies.
